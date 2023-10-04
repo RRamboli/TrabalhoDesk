@@ -1,0 +1,28 @@
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.exe
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.deps.json
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.runtimeconfig.json
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.dll
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.pdb
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.AssemblyInfo.cs
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.dll
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\refint\Avaliacao_1_Analice_Jose.dll
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.pdb
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.genruntimeconfig.cache
+C:\Users\User\Documents\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\ref\Avaliacao_1_Analice_Jose.dll
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.exe
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.deps.json
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.runtimeconfig.json
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.dll
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\bin\Debug\net6.0\Avaliacao_1_Analice_Jose.pdb
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.AssemblyInfoInputs.cache
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.AssemblyInfo.cs
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.dll
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\refint\Avaliacao_1_Analice_Jose.dll
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.pdb
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\Avaliacao_1_Analice_Jose.genruntimeconfig.cache
+C:\Users\josea\Documents\Faculdade\Ads\4 - Semestre\Trabalho_Bueno\trabalho_04_10\Avaliacao_1_Analice_Jose\obj\Debug\net6.0\ref\Avaliacao_1_Analice_Jose.dll

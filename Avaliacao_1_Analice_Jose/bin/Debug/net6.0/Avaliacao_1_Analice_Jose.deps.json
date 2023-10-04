@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Avaliacao_1_Analice_Jose/1.0.0": {
+        "runtime": {
+          "Avaliacao_1_Analice_Jose.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avaliacao_1_Analice_Jose/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
